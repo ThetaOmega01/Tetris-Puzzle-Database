@@ -1,6 +1,6 @@
 # Tetris-Puzzle-Database
 
-请随意上传你认为有趣或有价值的题目。移步[wiki](https://github.com/ThetaOmega01/Tetris-Puzzle-Database/wiki).
+请随意上传你认为有趣或有价值的题目。移步Puzzles.md.
 
 ## 上传格式
 
