@@ -4,10 +4,10 @@
 
 ## 上传格式
 
-在wiki建立你的页面，使用Markdown并按照以下格式上传题目:
+在wikiHome页面使用Markdown并按照以下格式上传题目:
 
 ```markdown
-**[目标（e.g. 完成tspin+pc）](fumen链接)**	[答案 by (你的编号)](fumen链接) 
+**[目标（e.g. 完成tspin+pc） T(编号)](fumen链接)**	[答案 by (你的编号)](fumen链接) 
 ```
 
 题目和答案之间用`space`隔开。
