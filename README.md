@@ -7,7 +7,7 @@
 使用Markdown并按照以下格式上传题目:
 
 ```markdown
-[目标（e.g. 完成tspin+pc） by (你的编号)](fumen链接)	[答案](fumen链接) 
+[目标（e.g. 完成tspin+pc） by (你的编号)](fumen链接)	[答案 by (你的编号)](fumen链接) 
 ```
 
 题目和答案之间用`tab`隔开。
